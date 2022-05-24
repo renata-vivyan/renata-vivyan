@@ -1,4 +1,4 @@
-### Hi there 👋
+![ Animação de cobra ](https://github.com/renata_vivyan/renata-vivyan/blob/output/github-contribution-grid-snake.sgv)
 
 <!--
 **renata-vivyan/renata-vivyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
